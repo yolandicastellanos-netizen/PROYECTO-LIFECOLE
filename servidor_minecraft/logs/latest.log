@@ -100,3 +100,15 @@
 [25Sep2025 18:02:28.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.688s)! For help, type "help"
 [25Sep2025 18:02:28.673] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [25Sep2025 18:10:16.879] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39aa61c4[id=<null>,name=FRAN9298,properties={},legacy=false] (/127.230.86.178:59781) lost connection: Disconnected
+[25Sep2025 18:16:25.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FRAN9298[/127.230.86.178:33675] logged in with entity id 320 at (-23.5, 92.0, 67.5)
+[25Sep2025 18:16:25.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRAN9298 joined the game
+[25Sep2025 18:20:45.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRAN9298 drowned
+[25Sep2025 18:20:49.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FRAN9298 lost connection: Disconnected
+[25Sep2025 18:20:49.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRAN9298 left the game
+[25Sep2025 18:21:01.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FRAN9298[/127.230.86.178:54961] logged in with entity id 1525 at (-115.21880547299604, 62.526256666272396, 139.08238652813287)
+[25Sep2025 18:21:01.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRAN9298 joined the game
+[25Sep2025 18:22:49.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRAN9298 has made the advancement [Stone Age]
+[25Sep2025 18:23:52.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRAN9298 has made the advancement [Monster Hunter]
+[25Sep2025 18:25:12.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRAN9298 has made the advancement [Getting an Upgrade]
+[25Sep2025 18:26:39.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FRAN9298 lost connection: Disconnected
+[25Sep2025 18:26:39.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRAN9298 left the game

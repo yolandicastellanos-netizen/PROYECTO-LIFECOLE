@@ -806,3 +806,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Sep2025 18:26:39.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FRAN9298 left the game
 [25Sep2025 18:27:28.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Sep2025 18:27:28.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Sep2025 18:32:28.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Sep2025 18:32:28.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Sep2025 18:37:28.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Sep2025 18:37:28.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
